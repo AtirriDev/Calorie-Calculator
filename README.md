@@ -1,6 +1,6 @@
-# Calorie-Calculator
-Calorie Calculator project. This project was developed during my early days at university, where I applied my knowledge in nutrition to create a calorie calculator based on the Harris-Benedict formulas. .In the near future, I have plans to enhance this project, particularly in terms of its visual appeal and user experience.
+# Calculadora de calorias 
+Este proyecto lo desarrollé durante mis inicios en la universidad, donde apliqué mis conocimientos en nutrición ( ya que estudie esa carrera por 4 años en el pasado) para crear una calculadora de calorías basada en las fórmulas de Harris-Benedict. .En un futuro próximo, tengo planes de mejorar este proyecto, particularmente en términos de su atractivo visual y experiencia de usuario.
 
-// Work done with C# .NET
+// Trabajo realizado con C# .NET
 
 ![captura app Calculadora calorias](https://github.com/AtirriDev/Calorie-Calculator/assets/147408803/292d0964-4d9c-4ff8-b36d-11fa6b3631df)
